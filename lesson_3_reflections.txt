@@ -1,0 +1,5 @@
+Uploading commits:
+
+ - you can see which remotes are associated with the repository with "git remote"
+ - add a new one with "git remote add online_repository_name url"
+ - git push online_repository_name branch_to_upload
