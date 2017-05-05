@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+git will start tracking changes you commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+allows you to put multiple files ready to commit
+
+git diff with no arguements = difference between working directory and staging area
+
+git diff --staged = difference between staging area and most recent repository entry
+
+git checkout master returns to most recent version (puts your head back on)
+
